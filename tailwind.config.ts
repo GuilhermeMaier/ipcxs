@@ -10,10 +10,10 @@ const config: Config = {
     themes: [
       {
         principal: {
-          "branco": "#FFF",
-          "preto": "#000",
-          "primaria": "#383E33",
-          "secundaria": "#FFFFF0",
+          "white": "#FFF",
+          "black": "#000",
+          "primary": "#383E33",
+          "secondary": "#FFFFF0",
           "neutral-light": "#B3B3A8",
           "neutral-dark": "#2b3440",
 
